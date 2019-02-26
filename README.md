@@ -29,9 +29,3 @@ python resnet_filestream_client.py
 ```
 curl -F "image=@./test.jpeg" localhost:5000/predict
 ```
-
-
-
-```
-
-```
